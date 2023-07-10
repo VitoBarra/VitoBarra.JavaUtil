@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VitoBarra.JavaUtil:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VitoBarra_JavaUtil_jar</output-path>
+    <root id="archive" name="VitoBarra.JavaUtil.jar">
+      <element id="module-output" name="Other" />
+      <element id="module-output" name="VitoBarra.JavaUtil" />
+      <element id="module-output" name="Data" />
+      <element id="module-output" name="IO" />
+      <element id="module-output" name="DesignPatternHelper" />
+      <element id="module-output" name="ServerHelper" />
+      <element id="module-output" name="String" />
+      <element id="module-output" name="Time" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
